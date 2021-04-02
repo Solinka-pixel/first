@@ -21,3 +21,4 @@ while x != 0:
 print(sqrt((partial_sum_squares -2*(partial_sum)**2/n + (partial_sum)**2/n) / (n - 1)))
 #####
 11111
+
