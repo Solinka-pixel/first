@@ -7,4 +7,3 @@ M=int(input())
 S=int(input())
 degree = (H+M/60+S/3600)*30
 print(degree)
-###########
