@@ -10,5 +10,5 @@ while prev != 0:
         answer += 1
     prev = next
 print(answer)
-
+####
 
